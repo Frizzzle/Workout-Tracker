@@ -1,0 +1,111 @@
+
+/* Class = "UILabel"; text = "+ Add Exercises"; ObjectID = "3QV-mR-blv"; */
+"3QV-mR-blv.text" = "+ Добавить Упражнения";
+
+/* Class = "UILabel"; accessibilityIdentifier = "labels"; ObjectID = "5vQ-le-cVf"; */
+"5vQ-le-cVf.accessibilityIdentifier" = "labels";
+
+/* Class = "UILabel"; text = "3 Sets"; ObjectID = "6GN-l5-GQt"; */
+"6GN-l5-GQt.text" = "3 Sets";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7AU-sh-56g"; */
+"7AU-sh-56g.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Previous"; ObjectID = "7lL-ct-2Wp"; */
+"7lL-ct-2Wp.normalTitle" = "Предыдущее";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8yt-0c-Nhh"; */
+"8yt-0c-Nhh.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "A72-DU-WEn"; */
+"A72-DU-WEn.title" = "История";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "AK2-Zb-BlR"; */
+"AK2-Zb-BlR.title" = "История";
+
+/* Class = "UILabel"; text = "Track distance and duration"; ObjectID = "DKc-OX-pzC"; */
+"DKc-OX-pzC.text" = "Расстояние и время";
+
+/* Class = "UILabel"; text = "Track weight and reps"; ObjectID = "Ea8-6X-0wi"; */
+"Ea8-6X-0wi.text" = "Вес и повторения";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GMJ-Ze-A3M"; */
+"GMJ-Ze-A3M.text" = "Label";
+
+/* Class = "UILabel"; text = "Added"; ObjectID = "K4V-zO-wor"; */
+"K4V-zO-wor.text" = "Добавлено";
+
+/* Class = "UILabel"; text = "Start tracking your                        workout  tapping the plus button."; ObjectID = "KFU-eJ-SOK"; */
+"KFU-eJ-SOK.text" = "Нажмите кнопку плюс,                        чтоб добавить запись.";
+
+/* Class = "UILabel"; text = "45 kg"; ObjectID = "LFG-Mv-IPu"; */
+"LFG-Mv-IPu.text" = "45 kg";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "PV0-E5-aRW"; */
+"PV0-E5-aRW.title" = "Настройки";
+
+/* Class = "UILabel"; accessibilityIdentifier = "labels"; ObjectID = "V7C-ki-olX"; */
+"V7C-ki-olX.accessibilityIdentifier" = "labels";
+
+/* Class = "UILabel"; text = "You have no history yet."; ObjectID = "WV4-W1-E8M"; */
+"WV4-W1-E8M.text" = "Ваша история тренировок\n пока пуста.";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "c5l-ju-6i7"; */
+"c5l-ju-6i7.title" = "Настройки";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cCo-al-DF0"; */
+"cCo-al-DF0.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "cxq-Lk-Nvv"; */
+"cxq-Lk-Nvv.normalTitle" = "Следующее";
+
+/* Class = "UILabel"; text = "15x25 kg"; ObjectID = "dDO-ZR-tc9"; */
+"dDO-ZR-tc9.text" = "15x25 kg";
+
+/* Class = "UILabel"; text = "Alternating rotating dumbbell curl"; ObjectID = "ddL-xk-hvQ"; */
+"ddL-xk-hvQ.text" = "Alternating rotating dumbbell curl";
+
+/* Class = "UITextField"; placeholder = "Exercise Name"; ObjectID = "ef3-n8-yPc"; */
+"ef3-n8-yPc.placeholder" = "Название упражнения";
+
+/* Class = "UITabBarItem"; title = "Workouts"; ObjectID = "fb5-gA-sCE"; */
+"fb5-gA-sCE.title" = "Тренировки";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "g8h-xD-EFJ"; */
+"g8h-xD-EFJ.text" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gTd-8j-TEZ"; */
+"gTd-8j-TEZ.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Workouts"; ObjectID = "k8X-g4-P7k"; */
+"k8X-g4-P7k.title" = "Тренировки";
+
+/* Class = "UILabel"; text = "adgshijoadgsioadgshiogsd"; ObjectID = "ltT-Fs-GdY"; */
+"ltT-Fs-GdY.text" = "adgshijoadgsioadgshiogsd";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lvH-SV-zGS"; */
+"lvH-SV-zGS.text" = "Label";
+
+/* Class = "UILabel"; text = "+ Create Custom Exercise"; ObjectID = "mCX-EP-1Vs"; */
+"mCX-EP-1Vs.text" = "+ Создать упражнение";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nGN-ZR-Rfc"; */
+"nGN-ZR-Rfc.text" = "Label";
+
+/* Class = "UILabel"; text = "600 km, 23:59:59"; ObjectID = "o23-ZH-xzC"; */
+"o23-ZH-xzC.text" = "600 km, 23:59:59";
+
+/* Class = "UILabel"; text = "Alternating rotating dumbbell curl lololo"; ObjectID = "opo-cu-uyU"; */
+"opo-cu-uyU.text" = "Alternating rotating dumbbell curl lololo";
+
+/* Class = "UILabel"; text = "Best result(28.09.15)"; ObjectID = "pWn-Ql-Rmn"; */
+"pWn-Ql-Rmn.text" = "Best result(28.09.15)";
+
+/* Class = "UINavigationItem"; title = "Exercise"; ObjectID = "qXr-Ln-z9d"; */
+"qXr-Ln-z9d.title" = "Упражнения";
+
+/* Class = "UINavigationController"; title = "History"; ObjectID = "uW8-LC-xX6"; */
+"uW8-LC-xX6.title" = "История";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wlO-IB-chA"; */
+"wlO-IB-chA.text" = "Label";

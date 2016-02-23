@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  WorkoutTracker
+
+  Created by Koctya on 11/13/15.
+  Copyright © 2015 Koctya Bondar. All rights reserved.
+*/
+
+str_Workouts = "Workouts";
+str_NameNewWorkout = "Enter a name for your new workout";
+str_Cancel = "Cancel";
+str_CreateWorkout = "Create workout";
+str_PlsInpWorkoutName = "Please , input workout name";
+str_Close = "Close";
+str_ExstWorkNameNew = "A workout with this name already exists. Please choose another name for your new workout.";
+str_WorkNameNew = "A workout with this name already exists. Please choose another name for your workout.";
+str_IN = "Workouts";
+str_InpWorkName = "Input workout name";
+str_Rename = "Rename";
+str_workout = "workout";
+str_Delete = "Delete";
+str_DelWork = "Deleting this workout will not delete it from history";
+str_CrtWork = "CREATE NEW \nWORKOUT";
+str_EXERCISE = "EXERCISE";
+str_EXERCISES = "EXERCISES";
+str_Settings = "Settings";
+str_Reset = "Reset All Data";
+str_ResetAppD = "Reset all app data";
+str_ResetSure = "Are you sure you want to reset all application to default? All your workouts and entries will be deleted";
+str_kg = "kg";
+str_lb = "lb";
+str_km = "km";
+str_mi = "mi";
+str_Set = "Set";4str_FeedBack = "Send Feedback to Developer";
+str_Kilograms = "Kilograms";
+str_Pounds = "Pounds";
+str_Kilometers = "Kilometers";
+str_Miles = "Miles";
+str_WU = "Weight Units";
+str_DU = "Distance Units";
+str_History = "History";
+str_Done = "Done";
+str_AddExercise = "Add Exercises";
+str_Loading = "Loading...";
+str_Saving = "Saving...";
+str_Added = "Added";
+str_Save = "Save";
+str_Today = "Today";
+str_CrCuEx = "Create Custom Exercise";
+str_ExExistName = "An exercise with this name already exists. Please choose another name for your new exercise.";
+str_Edit = "Edit";
+str_exercise = "exercise";
+str_Clear = "Clear";
+str_ClrHistory = "Are you sure you want to clear history for this exercise? This data will be deleted in all workouts.";
+str_RnmEx = "Rename exercise";
+str_ClrHistoryL = "Clear history";
+str_BestR = "Best result";
+str_Yesterday = "Yesterday";
+str_Distance = "Distance";
+str_Duration = "Duration";
+str_Date = "Date";
+str_UpdateH = "Updating history...";
+str_Deleting = "Deleting...";
+str_NSet = "New Set";
+str_reps = "reps";
